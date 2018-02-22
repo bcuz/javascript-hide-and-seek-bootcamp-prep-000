@@ -8,6 +8,6 @@ function nestedTarget() {
 }
 
 function increaseRankBy(n) {
-  const lis = document.getElementById('app').querySelectorAll('ul.ranked-list li')
+  const lis = document.querySelectorAll('ul.ranked-list li')
 
 }
