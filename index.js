@@ -23,5 +23,5 @@ function deepestChild() {
     var ele = ele.querySelector('div')
   }
 
-  return deeper
+  return ele
 }
